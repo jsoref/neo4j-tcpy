@@ -5,7 +5,7 @@ strings are quite complete, so just do
 
     tc.py -h
 
-to see what sub commands you can call. For more specfic help, just do
+to see what sub commands you can call. For more specific help, just do
 
     tc.py {subcommand} -h
 
